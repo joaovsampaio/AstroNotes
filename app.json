@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "OwNotes",
-    "slug": "OwNotes",
+    "name": "AstroNotes",
+    "slug": "AstroNotes",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./app/assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./app/assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -18,16 +18,35 @@
       "**/*"
     ],
     "ios": {
+      "buildNumber": "1.0.0",
       "supportsTablet": true
     },
     "android": {
+      "versionCode": 1,
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "foregroundImage": "./app/assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": [
+        "android.permission.RECORD_AUDIO"
+      ],
+      "package": "com.joaovsampaio.astronotes"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./app/assets/icon.png"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "O Aplicativo Precisa De Permissão Para Acessar As Imagens."
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "c9459e11-5eed-4180-9b7a-d81a7590f50b"
+      }
     }
   }
 }
