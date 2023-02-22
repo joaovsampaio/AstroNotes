@@ -11,6 +11,7 @@ O AstroNotes é um bloco de notas ou um diário pessoal, depende do usuário. O 
 - [Formik](https://formik.org/)
 - [LottieFiles](https://lottiefiles.com/)
 - [Firebase](https://firebase.google.com/?hl=pt)
+- [React Query](https://react-query-v3.tanstack.com/)
 - [Zustand](https://zustand-demo.pmnd.rs/)
 
 ## Utilização:
@@ -21,7 +22,7 @@ O AstroNotes é um bloco de notas ou um diário pessoal, depende do usuário. O 
 
 Instale o APK usando o QR Code ou o Link:
 
-![QR Code APK](./app/assets/git_pictures/apk-qrcode.png)
+![QR Code APK](./app/assets/git_pictures/apk-qrcode.PNG)
 
 [CLIQUE AQUI PARA FAZER O DOWNLOAD](https://expo.dev/artifacts/eas/9czMuU86kXSoq84xFadWGc.apk)
 
