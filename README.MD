@@ -24,7 +24,7 @@ Instale o APK usando o QR Code ou o Link:
 
 ![QR Code APK](./app/assets/git_pictures/apk-qrcode.PNG)
 
-[CLIQUE AQUI PARA FAZER O DOWNLOAD](https://expo.dev/artifacts/eas/9czMuU86kXSoq84xFadWGc.apk)
+[CLIQUE AQUI PARA FAZER O DOWNLOAD](https://expo.dev/artifacts/eas/mensLbB6fzB73XhVJFz2gC.apk)
 
 Após a instalação abra um gerenciador de arquivos e instale o app.
 
