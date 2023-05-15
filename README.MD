@@ -22,9 +22,9 @@ O AstroNotes é um bloco de notas ou um diário pessoal, depende do usuário. O 
 
 Instale o APK usando o QR Code ou o Link:
 
-![QR Code APK](./app/assets/git_pictures/apk-qrcode.PNG)
+![QR Code APK](./app/assets/git_pictures/apk-qrcode.png)
 
-[CLIQUE AQUI PARA FAZER O DOWNLOAD](https://expo.dev/artifacts/eas/mensLbB6fzB73XhVJFz2gC.apk)
+[CLIQUE AQUI PARA FAZER O DOWNLOAD](https://expo.dev/artifacts/eas/aqGHhwZEm6ff3MKqraRZo.apk)
 
 Após a instalação abra um gerenciador de arquivos e instale o app.
 
